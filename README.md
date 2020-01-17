@@ -20,8 +20,25 @@
 
 #### Data Visualization:
 ----
+##### Murmur
+-----
+!['murmur'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Murmur_Heartbeat.PNG)
 
+##### Normal
+-----
+!['Normal'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Normal_Heartbeat.PNG)
+
+##### Extrahls
+-----
+!['Extrahl'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Extrahls_Heartbeat.PNG)
+
+##### Artifact
+-----
+!['Artifact'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Artifact_Heartbeat.PNG)
 
 
 #### Model Building:
 ----
+
+
+
