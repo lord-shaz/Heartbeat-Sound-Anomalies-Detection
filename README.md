@@ -34,7 +34,7 @@
 
 ##### Artifact
 -----
-!['Artifact'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Artifact_Heartbeat.PNG)
+!['Arti'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Waveplot_with_MFCC1_Artifact_Heartbeat.PNG)
 
 
 #### Model Building:
