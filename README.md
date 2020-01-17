@@ -18,6 +18,10 @@
 * Source 1: http://www.peterjbentley.com/heartchallenge/#downloads
 * Source 2: https://www.kaggle.com/kinguistics/heartbeat-sounds
 
+#### Feature Extraction using MFCC:
+-----
+* MFCC values mimic human hearing and they are commonly used in speech recognition applications. The MFCC values will be fed directly into the neural network. For information on MFCC please check https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
+
 #### Data Visualization:
 ----
 ##### Murmur
