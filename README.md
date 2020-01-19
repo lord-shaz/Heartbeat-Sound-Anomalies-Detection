@@ -22,6 +22,10 @@
 -----
 * MFCC values mimic human hearing and they are commonly used in speech recognition applications. The MFCC values will be fed directly into the neural network. For information on MFCC please check https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
+* source: https://www.researchgate.net/figure/Flowchart-of-MFCC-extraction-procedure_fig3_257135369
+
+!['MFCC'](https://github.com/ShehzadaAlam/Heartbeat-Sound-Anomalies-Detection/blob/master/Flowchart-of-MFCC-extraction-procedure.png)
+
 #### Data Visualization:
 ----
 ##### Murmur
